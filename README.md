@@ -9,9 +9,9 @@ First, ensure you have installed the `runc` command-line interface.
 Next, install with your preferred package manager:
 
 ```shell
-$ yarn add @containers/runc
-$ npm install @containers/runc
-$ pnpm add @containers/runc
+$ yarn add @containers-js/runc
+$ npm install @containers-js/runc
+$ pnpm add @containers-js/runc
 ```
 
 ## Usage

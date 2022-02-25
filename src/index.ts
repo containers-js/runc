@@ -1,7 +1,7 @@
 import execa from 'execa'
 import fsp from 'fs/promises'
 import tempy from 'tempy'
-import {Process} from './runtimeSpec' // TODO: replace with @containers/runtime-spec after publish
+import {Process} from './runtimeSpec' // TODO: replace with @containers-js/runtime-spec after publish
 
 export interface GlobalOptions {
   /**

@@ -1,5 +1,5 @@
 {
-  "name": "@containers/runc",
+  "name": "@containers-js/runc",
   "version": "0.0.1",
   "author": {
     "name": "Jacob Gillespie",
